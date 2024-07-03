@@ -37,9 +37,9 @@ const projectList = [
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Developer",
+    title: "Created Web Sites For Edumoon",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Created web sites for the Edumoon as an intern",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   

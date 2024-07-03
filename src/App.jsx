@@ -26,13 +26,13 @@ import "./styles.css";
 const siteProps = {
   name: "Purushotam Rauniyar",
   title: "Web Developer",
-  email: "adam@example.com",
-  gitHub: "https://github.com/shadowwave12",
-  instagram: "microsoft",
+  email: "purushotam.rauniyar@gmail.com",
+  gitHub: "shadowwave12",
+  instagram: "instagram",
   linkedIn: "elon musk",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "elonmusk",
+  youTube: "ApnaCollegeOfficial",
 };
 
 const primaryColor = "#4E567E";

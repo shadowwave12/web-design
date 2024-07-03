@@ -24,16 +24,18 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a 2nd year student studying at Andhra University. I am a Passionate web developer.";
+  "I'm a 2nd year student studying at Andhra University. I am a Passionate Full stack web developer.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
+  "MERN Stack",
   "User experience",
-  "Tester"
+  "Tester",
+  "Git & Github",
+
 ];
 
 /**

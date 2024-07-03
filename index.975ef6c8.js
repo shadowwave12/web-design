@@ -27089,13 +27089,13 @@ var _stylesCss = require("./styles.css");
  */ const siteProps = {
     name: "Purushotam Rauniyar",
     title: "Web Developer",
-    email: "adam@example.com",
-    gitHub: "https://github.com/shadowwave12",
-    instagram: "microsoft",
+    email: "purushotam.rauniyar@gmail.com",
+    gitHub: "shadowwave12",
+    instagram: "instagram",
     linkedIn: "elon musk",
     medium: "",
-    twitter: "microsoft",
-    youTube: "Code"
+    twitter: "elonmusk",
+    youTube: "ApnaCollegeOfficial"
 };
 const primaryColor = "#4E567E";
 const secondaryColor = "#D2F1E4";
@@ -27182,14 +27182,15 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a 2nd year student studying at Andhra University. I am a Passionate web developer.";
+ */ const description = "I'm a 2nd year student studying at Andhra University. I am a Passionate Full stack web developer.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Web design",
+    "MERN Stack",
     "User experience",
-    "Tester"
+    "Tester",
+    "Git & Github", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
@@ -27207,7 +27208,7 @@ const About = ()=>{
                 alt: imageAltText
             }, void 0, false, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 50,
+                lineNumber: 52,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -27223,7 +27224,7 @@ const About = ()=>{
                         children: "About Myself"
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 60,
+                        lineNumber: 62,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27231,12 +27232,12 @@ const About = ()=>{
                         children: description
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 61,
+                        lineNumber: 63,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 62,
+                        lineNumber: 64,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("ul", {
@@ -27251,17 +27252,17 @@ const About = ()=>{
                                 children: skill
                             }, skill, false, {
                                 fileName: "src/Components/About.jsx",
-                                lineNumber: 73,
+                                lineNumber: 75,
                                 columnNumber: 13
                             }, undefined))
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 63,
+                        lineNumber: 65,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("hr", {}, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 76,
+                        lineNumber: 78,
                         columnNumber: 9
                     }, undefined),
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27271,19 +27272,19 @@ const About = ()=>{
                         children: detailOrQuote
                     }, void 0, false, {
                         fileName: "src/Components/About.jsx",
-                        lineNumber: 77,
+                        lineNumber: 79,
                         columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/About.jsx",
-                lineNumber: 51,
+                lineNumber: 53,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/About.jsx",
-        lineNumber: 49,
+        lineNumber: 51,
         columnNumber: 5
     }, undefined);
 };
@@ -28697,7 +28698,7 @@ const Home = ({ name , title  })=>{
 _c = Home;
 Home.defaultProps = {
     name: "Purushotam ",
-    title: "Web developer"
+    title: "MERN Stack developer"
 };
 Home.propTypes = {
     name: (0, _propTypesDefault.default).string.isRequired,
@@ -28761,8 +28762,8 @@ const imageAltText = "desktop with books and laptop";
         url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
     },
     {
-        title: "Web Developer",
-        description: "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+        title: "Created Web Sites For Edumoon",
+        description: "Created web sites for the Edumoon as an intern",
         url: "https://github.com/microsoft/web-dev-for-beginners"
     }, 
 ];
